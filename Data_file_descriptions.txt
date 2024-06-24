@@ -59,7 +59,7 @@ Chrom: Chromosome
 BP_A: Base-pair coordinate of variant A (first variant)
 SNP_A: rsID of SNP A
 MAF_A: Minor allele frequency at SNP A
-BP_B: rsID of SNP B
+BP_B: Base-pair coordinate of variant B (second variant)
 SNP_B: rsID of SNP B
 MAF_B: Minor allele frequency at SNP B
 R2: Squared correlation coefficient between A and B
