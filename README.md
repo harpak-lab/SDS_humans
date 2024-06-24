@@ -26,7 +26,7 @@ Welcome! Here you can find the code to reproduce the analyses of "The battle of 
 ## Data documentation
 Detailed descriptions of all the data files found at the Zenodo repository can be found in the file: ```Data_file_descriptions.txt```
 
-## Script Documentation
+## Script documentation
 Code is number-labeled according to the rough order of when these analyses appear in the text. There are main scripts (in both R and bash, numbered 1-10) that call on several subscripts (unnumbered) to perform various tasks (see [scripts](/scripts) directory). ```ML_functions.R``` contains most of the functions carried out accross multiple scripts, including the likelihood functions. 
 
 ### 1.Simulate_SAS.R 
