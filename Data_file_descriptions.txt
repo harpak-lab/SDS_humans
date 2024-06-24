@@ -304,7 +304,7 @@ File: "regression.lfsr.mash.p1.txt" (results from SMA regressions)
 ---
 Trait: Phenotype name
 Mode: Viability, Fecundity, or Total selection
-Data: How SNPs were selection (random or by lowest LFSR)
+Data: How SNPs were selected (random or by lowest LFSR)
 mean_slope: Mean value of the slope from 1000 SMA regressions
 SD_slope: Standard deviation of the SMA slope from 1000 regressions
 Z: Z-score for the SMA regressions
