@@ -1,6 +1,6 @@
 ## Description of data files for "The battle of the sexes in humans is highly polygenic" 
 
-The files can be found on Zenodo (). 
+The files can be found on Zenodo (https://doi.org/10.5281/zenodo.11992199). 
 
 
 ######################
